@@ -1,0 +1,9 @@
+.link {
+    list-style: none;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: black;
+}
