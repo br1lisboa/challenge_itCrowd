@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/challenge_itCrowd/static/css/main.d85d18b1.css",
-    "main.js": "/challenge_itCrowd/static/js/main.a74d5859.js",
-    "index.html": "/challenge_itCrowd/index.html",
-    "main.d85d18b1.css.map": "/challenge_itCrowd/static/css/main.d85d18b1.css.map",
-    "main.a74d5859.js.map": "/challenge_itCrowd/static/js/main.a74d5859.js.map"
+    "main.css": "/static/css/main.d85d18b1.css",
+    "main.js": "/static/js/main.d341dd86.js",
+    "index.html": "/index.html",
+    "main.d85d18b1.css.map": "/static/css/main.d85d18b1.css.map",
+    "main.d341dd86.js.map": "/static/js/main.d341dd86.js.map"
   },
   "entrypoints": [
     "static/css/main.d85d18b1.css",
-    "static/js/main.a74d5859.js"
+    "static/js/main.d341dd86.js"
   ]
 }
