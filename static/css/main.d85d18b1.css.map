@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d85d18b1.css","mappings":"AAAA,MAEI,aAAiB,CADjB,eAAgB,CAEhB,oBACJ,CAEA,YACI,UACJ","sources":["assets/Announ.css"],"sourcesContent":[".link {\r\n    list-style: none;\r\n    color: whitesmoke;\r\n    text-decoration: none;\r\n}\r\n\r\n.link:hover {\r\n    color: black;\r\n}"],"names":[],"sourceRoot":""}
