@@ -1,7 +1,7 @@
 {
   "name": "challenge_itcrowd_ecommerce",
-  "version": "0.1.0",
-  "homepage": "https://br1lisboa.github.io/itcrowd-ecommerce-app",
+  "version": "0.1.1",
+  "homepage": "https://br1lisboa.github.io/challenge_itCrowd",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
